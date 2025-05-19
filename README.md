@@ -1,4 +1,5 @@
-# Marine Heatwave Analysis Project
+# Realistic Ocean Climate - Machine Learning
+## Marine Heatwave Analysis Project
 
 ## Project Overview
 
